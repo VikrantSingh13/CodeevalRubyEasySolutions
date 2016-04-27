@@ -1,2 +1,2 @@
 # CodevalRubyEasySolutions
-Ruby solutions of codeeval easy problems
+Ruby solutions of codeeval easy challenges
