@@ -1,4 +1,6 @@
 /*
+Age Distribution:
+
 CHALLENGE DESCRIPTION:
 
 You're responsible for providing a demographic report for your local school district based on age. 
