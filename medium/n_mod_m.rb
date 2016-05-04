@@ -1,3 +1,14 @@
+/*
+N MOD M
+
+CHALLENGE DESCRIPTION:
+
+Given two integers N and M, calculate N Mod M (without using any inbuilt modulus operator).
+
+*/
+
+#working code: 
+
 File.open(ARGV[0]).each_line do |line|
 	line = line.split(",")
 	
