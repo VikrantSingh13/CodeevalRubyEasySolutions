@@ -1,3 +1,5 @@
+Note: This website changed a lot. 
+
 #codeeval_ruby
 
 Ruby solutions for Codeeval challenges
@@ -13,5 +15,3 @@ the link posted below.
 
 URL: https://www.codeeval.com/open_challenges/
 
-P.s. If you're getting "not unique" for the solutions, changing the name of the 
-variables and/or adding your own comments/docstring might help. :P
