@@ -1,6 +1,6 @@
-Note: This website changed a lot. 
+**Note: Codeeval has changed a lot.** 
 
-#codeeval_ruby
+# codeeval_ruby
 
 Ruby solutions for Codeeval challenges
 
